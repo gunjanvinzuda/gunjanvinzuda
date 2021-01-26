@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Gunjan Vinzuda!!😃
+## Hi there 👋
+### I am Gunjan Vinzuda!!😃🙌
 
 <!--
 **gunjanvinzuda/gunjanvinzuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
